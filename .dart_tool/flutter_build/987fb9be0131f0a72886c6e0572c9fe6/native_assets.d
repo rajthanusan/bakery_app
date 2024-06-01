@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Documents\\Bakery\\Bakery\\.dart_tool\\flutter_build\\987fb9be0131f0a72886c6e0572c9fe6\\native_assets.yaml: 
